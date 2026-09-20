@@ -15,7 +15,7 @@ Plano de refeições nutritivo personalizado para Daniel e Jessica com interface
 
 ## 🏠 Usar agora
 
-[Abrir Plano Alimentar](https://seu-usuario.github.io/plano-alimentar-tdah/plano_refeicoes_2026.html)
+[Abrir Plano Alimentar](https://danramosbrg.github.io/plano-alimentar-tdah/plano_refeicoes_2026.html)
 
 > **Dica:** Salve no seu celular em favoritos para fácil acesso!
 
