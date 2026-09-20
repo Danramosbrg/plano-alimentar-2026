@@ -15,12 +15,10 @@ Plano de refeições nutritivo personalizado para Daniel e Jessica com interface
 
 ## 🏠 Usar agora
 
-[Abrir Plano Alimentar](https://danramosbrg.github.io/plano-alimentar-tdah/plano_refeicoes_2026.html)
+[Abrir Plano Alimentar](https://seu-usuario.github.io/plano-alimentar-tdah/plano_refeicoes_d7k9x2f5q1m8.html)
 
 > **Dica:** Salve no seu celular em favoritos para fácil acesso!
 
 ---
 
-**Nutricionista:** Nathalia Santos  
-**Contato:** nathalia.s.nutricionista@gmail.com  
-**CREFIS:** 15100042
+**Desenvolvido com 🧠**
